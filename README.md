@@ -116,3 +116,5 @@ To use a different blacklist, edit the CoreDNS configuration file (/etc/coredns/
 ```
 
 After making changes to the CoreDNS server you'll need to restart the service.
+
+.
